@@ -1,8 +1,8 @@
 ,,,,,,,,
-,№,consumer group,power,"load current, A",cable section,machine current,,parts list
-,1,,,,,,,
-,2,,,,,,,
-,3,,,,,,,
+,№,consumer group,"power, Vt","load current, A","cable section, mm",machine current,,parts list
+,1,"gas stove, gas biler, extractor",1000,2,"3 х 1,5",10A,,
+,2,computer,1000,5,"3 x 1,5",10A,,
+,3,kitchen sockets,3500,"15,2","3 x2,5",16A,,
 ,4,,,,,,,
 ,5,,,,,,,
 ,6,,,,,,,
