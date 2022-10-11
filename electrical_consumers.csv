@@ -3,8 +3,8 @@
 ,1,"gas stove, gas biler, extractor",1000,2,"3 х 1,5",10A,,electrical shield
 ,2,computer,1000,5,"3 x 1,5",10A,,wires
 ,3,kitchen sockets,3500,"15,2","3 x2,5",16A,,automatic
-,4,,,,,,,brackets
-,5,,,,,,,dowel
+,4,"light in the hollway, doorbell",500,1,"3x1,5",6A,,brackets
+,5,light in kitchen,500,1,"3x1,5",6A,,dowel
 ,6,,,,,,,mounting tools
 ,7,,,,,,,
 ,8,,,,,,,
