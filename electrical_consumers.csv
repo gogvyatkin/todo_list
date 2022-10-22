@@ -6,7 +6,7 @@
 ,4,"light in the hollway, doorbell",500,1,"3x1,5",6A,,brackets
 ,5,light in kitchen,500,1,"3x1,5",6A,,dowel
 ,6,woter pump,550,,"3x1,5",6A,,press tongs
-,7,light in right room,500,,"3x1,5",6A,,
+,7,light in right room,500,,"3x1,5",6A,,stripper
 ,8,light in left room,500,,"3x1,5",6A,,
 ,9,light in the holl,500,,"3x1,5",6A,,
 ,10,hollway sockets,3500,,"3 x2,5",16A,,
@@ -15,4 +15,4 @@
 ,13,light outside the house,3500,,"3 x1,5",10A,,
 ,14,bathroom lightning,500,,"3 x1,5",6A,,
 ,15,sockets in the bathroom,3500,,"3 x2,5",16A,,
-,16,garage,3500,,"3 x2,5",16A,,
+,16,garage,7000,,3 x 6,32A,,
