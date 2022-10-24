@@ -1,4 +1,6 @@
-# todo_list
-first task - work two shifts
-check video 69.5
-take father to CT
+###Tasks
+1. collect lanch
+2. collect garbage
+3. watch one video about QA
+4. read article on habr
+5. plan car makeover
