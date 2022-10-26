@@ -1,7 +1,8 @@
-### Tasks
-1. collect lanch
-2. collect garbage
-3. watch one video about QA
-4. read article on habr
-5. plan car makeover
-6. order a tire repair kit
+##### Tasks
+
+1. pick up orders
+2. watch one video about QA
+3. read article on habr
+4. plan car makeover
+5. order a tire repair kit
+6. pass a medical examination
