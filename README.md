@@ -1,8 +1,7 @@
-##### Tasks
+#      Tasks
+1. work a shift
+2. watch one video about QA or IT or electrician
+3. read article on habr
+4. order a tire repair kit
 
-
-3. watch one video about QA
-4. read article on habr
-2. chenge car tires
-5. order a tire repair kit
-1. pass a medical examination
+5. chenge car tires
