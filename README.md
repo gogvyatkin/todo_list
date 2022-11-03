@@ -1,6 +1,5 @@
 #      Tasks
-1. work a shift
-2. watch one video about QA or IT or english
-3. read article on habr
-4. order a tire repair kit
-5. find car parts
+1. watch one video about QA or IT or english
+2. read article on habr
+3. order a tire repair kit
+4. find car parts
