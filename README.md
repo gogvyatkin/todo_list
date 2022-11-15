@@ -1,6 +1,6 @@
 #      Tasks
 
-1. take electrical double socket
+1. replase socket
 2. insulate the pipe
 3. orden a front door
 4. bay wall insulation
