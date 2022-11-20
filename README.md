@@ -1,7 +1,7 @@
 #      Tasks
 
-1. pick up order
-2. glue the ends, straighten, lay the pipe
+1. order medicines for mom
+2. take scotch
 3. wash the car
 4. orden a front door
 5. bay wall insulation
