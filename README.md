@@ -1,6 +1,6 @@
 #      Tasks
 
-1. pick up order
+1. work a shift
 2. glue the ends, straighten, lay the pipe
 3. wash the car
 4. orden a front door
