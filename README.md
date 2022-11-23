@@ -1,6 +1,7 @@
 #      Tasks
 
-1. work a shift
+0. learn about gas connection
+1. order bulbs for almera
 2. read article on habr
 3. watch one video about QA or IT or english
 4. glue the ends, straighten, lay the pipe
