@@ -1,7 +1,6 @@
 #      Tasks
 
-0. work a shift
-1. agree on drilling a hole for a coaxial pipe
+1. work a shift
 2. find and buy a pipe for the sleeve
 3. read article on habr
 4. watch one video about QA or IT or english
