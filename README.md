@@ -1,6 +1,6 @@
 #      Tasks
 
-1. work a shift
+1. give money for work
 2. find and buy a pipe for the sleeve
 3. read article on habr
 4. watch one video about QA or IT or english
