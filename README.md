@@ -1,7 +1,7 @@
 #      Tasks
 
 1. give money for work
-2. find and buy a pipe for the sleeve
+2. call Vitaly
 3. read article on habr
 4. watch one video about QA or IT or english
 5. glue the ends, straighten, lay the pipe
