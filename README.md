@@ -1,12 +1,10 @@
 #      Tasks
 
-1. give money for work
-2. call Vitaly
-3. read article on habr
-4. watch one video about QA or IT or english
-5. glue the ends, straighten, lay the pipe
-6. wash the car
-7. orden a front door
-8. bay wall insulation
-9. continue assembling the electrical in home
-10. find a chandelier holder
+1. bay basalt cord
+2. read article on habr
+3. watch one video about QA or IT or english
+4. wash the car
+5. orden a front door
+6. bay wall insulation
+7. continue assembling the electrical in home
+8. find a chandelier holder
