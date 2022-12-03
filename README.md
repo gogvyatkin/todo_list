@@ -1,6 +1,6 @@
 #      Tasks
 
-1. complete plumping installation
+1. work a shift
 2. bay basalt cord
 3. order shoes for work
 4. read article on habr
