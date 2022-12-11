@@ -1,7 +1,7 @@
 #      Tasks
 
-1. install coax pipe
-2. wash the car
+1. work a shift
+2. order boiler voltage stabilizer
 3. measure the lenght of the foot
 4. order winter shoes
 5. watch video about IT or english language or read article on habr
