@@ -1,6 +1,6 @@
 #      Tasks
 
-1. work a shift
+1. wash the car
 2. order boiler voltage stabilizer
 3. measure the lenght of the foot
 4. order winter shoes
