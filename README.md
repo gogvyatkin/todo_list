@@ -1,5 +1,6 @@
 #      Tasks
-
+0. work a shift
+0,5. order a oil filter
 1. order boiler voltage stabilizer
 2. measure the lenght of the foot
 3. order winter shoes
