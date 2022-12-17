@@ -1,5 +1,5 @@
 #      Tasks
-1. work a shift
+1. come up with a home heating plan
 2. order a oil filter
 3. order boiler voltage stabilizer
 4. measure the lenght of the foot
