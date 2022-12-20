@@ -1,6 +1,6 @@
 #      Tasks
 
-1. work a shift
+1. make an appointment with the dentist
 2. pick up oil filter
 3. measure the lenght of the foot
 4. order winter shoes
