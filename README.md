@@ -1,11 +1,13 @@
 #      Tasks
 
-1. make an appointment with the dentist
-2. pick up oil filter
-3. measure the lenght of the foot
-4. order winter shoes
-5. watch video about IT or english language or read article on habr
-6. orden a front door
-7. continue assembling the electrical in home
-8. find a chandelier holder
-9. order a greenhouse
+1. pick up oil filter
+2. bay a toothbrush
+3. bay polypropylene ball valve 
+4. make an appointment with the dentist
+5. measure the lenght of the foot
+6. order winter shoes
+7. watch video about IT or english language or read article on habr
+8. orden a front door
+9. continue assembling the electrical in home
+10. find a chandelier holder
+11. order a greenhouse
