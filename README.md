@@ -1,7 +1,7 @@
 #      Tasks
 
-1. pick up oil filter
-2. bay a toothbrush
+1. pick up spare part
+2. order cable
 3. bay polypropylene ball valve 
 4. make an appointment with the dentist
 5. measure the lenght of the foot
