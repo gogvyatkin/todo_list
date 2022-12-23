@@ -1,8 +1,8 @@
 #      Tasks
 
-1. pick up spare part
+1. work a shift
 2. order cable
-3. bay polypropylene ball valve 
+3. make an electrical plan
 4. make an appointment with the dentist
 5. measure the lenght of the foot
 6. order winter shoes
