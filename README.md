@@ -11,3 +11,4 @@
 9. continue assembling the electrical in home
 10. find a chandelier holder
 11. order a greenhouse
+12. make a site plan
