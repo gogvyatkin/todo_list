@@ -1,5 +1,5 @@
 #      Tasks
-
+0. arrange for snow removal
 1. make a house plan
 2. make a site plan
 3. order cable 3x1 - 20m; 3x1,5 - 100m; 3x2,5 - 100m
