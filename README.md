@@ -1,5 +1,6 @@
 #      Tasks
 
+0. call the auto shop about the order
 1. pick up the lamp
 2. arrange for snow removal
 3. make a house plan
