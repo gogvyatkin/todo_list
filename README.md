@@ -16,3 +16,4 @@
 14. continue assembling the electrical in home
 15. find a chandelier holder
 16. order a greenhouse
+17. order thermometer
