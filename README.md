@@ -1,5 +1,5 @@
 #      Tasks
-
+0. work a shift
 1. buy firniture fittings
 2. repair seat heater
 3. arrange for snow removal
