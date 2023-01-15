@@ -1,5 +1,11 @@
 #      Tasks
-0. work a shift
+
+## to do now
+
+1. replace bathroom faucet
+
+## backlog
+
 1. buy firniture fittings
 2. repair seat heater
 3. arrange for snow removal
@@ -16,3 +22,5 @@
 14. find a chandelier holder
 15. order a greenhouse
 16. order thermometer
+
+
