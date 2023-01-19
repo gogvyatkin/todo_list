@@ -2,7 +2,7 @@
 
 ## to do now
 
-1. order battery
+1. install battery
 2. pick up silent blocks
 
 ## backlog
