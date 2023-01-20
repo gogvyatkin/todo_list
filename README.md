@@ -2,7 +2,7 @@
 
 ## to do now
 
-1. install battery
+1. take the car for repairs
 2. pick up silent blocks
 
 ## backlog
