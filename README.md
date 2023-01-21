@@ -2,6 +2,7 @@
 
 ## to do now
 
+0. order cat food
 1. take the car for repairs
 2. pick up silent blocks
 
